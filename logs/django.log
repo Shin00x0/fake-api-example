@@ -1,0 +1,1367 @@
+INFO 2025-08-07 18:06:58,249 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-07 18:07:01,653 log Not Found: /
+WARNING 2025-08-07 18:07:04,802 log Not Found: /static/admin/css/base.css
+WARNING 2025-08-07 18:07:04,802 log Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-08-07 18:07:04,802 log Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-08-07 18:07:04,802 log Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-08-07 18:07:04,807 log Not Found: /static/admin/css/login.css
+WARNING 2025-08-07 18:07:04,810 log Not Found: /static/admin/css/responsive.css
+WARNING 2025-08-07 18:07:04,811 log Not Found: /static/admin/js/theme.js
+WARNING 2025-08-07 18:07:16,562 log Not Found: /static/admin/css/base.css
+WARNING 2025-08-07 18:07:16,563 log Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-08-07 18:07:16,564 log Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-08-07 18:07:16,564 log Not Found: /static/admin/css/login.css
+WARNING 2025-08-07 18:07:16,565 log Not Found: /static/admin/css/responsive.css
+WARNING 2025-08-07 18:07:16,565 log Not Found: /static/admin/js/theme.js
+WARNING 2025-08-07 18:07:16,570 log Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-08-07 18:07:17,239 log Not Found: /static/admin/css/base.css
+WARNING 2025-08-07 18:07:17,241 log Not Found: /static/admin/css/login.css
+WARNING 2025-08-07 18:07:17,242 log Not Found: /static/admin/css/responsive.css
+WARNING 2025-08-07 18:07:17,242 log Not Found: /static/admin/js/theme.js
+WARNING 2025-08-07 18:07:17,243 log Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-08-07 18:07:17,244 log Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-08-07 18:07:17,247 log Not Found: /static/admin/js/nav_sidebar.js
+INFO 2025-08-07 18:07:20,455 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-07 18:07:28,200 log Not Found: /
+INFO 2025-08-07 19:04:10,226 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 19:05:02,780 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-07 19:05:03,663 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 19:05:57,136 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-07 19:05:58,052 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 10:55:38,013 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-12 10:55:40,506 log Not Found: /
+WARNING 2025-08-12 10:55:40,629 log Not Found: /favicon.ico
+INFO 2025-08-12 11:47:00,565 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 11:47:01,577 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 11:56:05,738 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 11:56:07,280 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:08:44,320 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:08:45,255 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:10:16,895 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:10:17,614 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:10:30,579 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:10:31,433 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:10:39,401 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:22:32,704 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:22:33,530 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:24:05,838 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:24:06,593 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:24:14,990 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:24:15,760 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:24:44,138 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:24:44,895 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:24:55,531 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:24:56,295 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:26:09,700 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:26:10,426 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:29:02,071 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:29:02,864 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:43:12,706 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\urls.py changed, reloading.
+INFO 2025-08-12 12:43:13,699 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-12 12:44:19,260 log Not Found: /products
+WARNING 2025-08-12 12:44:51,678 log Not Found: /api/v1/products_
+ERROR 2025-08-12 12:45:21,283 log Internal Server Error: /api/v1//products_
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+TypeError: get() missing 1 required positional argument: 'pk'
+WARNING 2025-08-12 12:45:24,665 log Not Found: /api/v1/products_
+INFO 2025-08-12 12:45:41,391 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:45:42,295 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-12 12:45:43,188 log Not Found: /api/v1/products_
+INFO 2025-08-12 12:45:58,956 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\urls.py changed, reloading.
+INFO 2025-08-12 12:45:59,953 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:46:04,138 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\urls.py changed, reloading.
+INFO 2025-08-12 12:46:05,008 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:48:14,222 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:48:15,038 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:48:16,718 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:48:17,535 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:48:45,232 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:48:45,957 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-12 12:51:35,072 log Internal Server Error: /api/v1/products_/2
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/v1/products_/2/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+WARNING 2025-08-12 12:51:44,435 log Method Not Allowed: /api/v1/products_/
+INFO 2025-08-12 12:53:27,482 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:53:28,322 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-12 12:53:39,711 log Internal Server Error: /api/v1/products_/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py", line 45, in post
+    if serializer.is_valid():
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 218, in is_valid
+    assert hasattr(self, 'initial_data'), (
+AssertionError: Cannot call `.is_valid()` as no `data=` keyword argument was passed when instantiating the serializer instance.
+INFO 2025-08-12 12:55:22,122 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:55:22,881 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-12 12:55:27,156 log Internal Server Error: /api/v1/products_/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py", line 46, in post
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 12:55:35,228 log Internal Server Error: /api/v1/products_/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py", line 46, in post
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 12:55:39,889 log Internal Server Error: /api/v1/products_/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py", line 46, in post
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 12:56:03,144 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 12:56:06,929 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 12:56:11,722 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 12:56:18,486 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 12:57:03,610 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+INFO 2025-08-12 12:58:02,468 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\serializers.py changed, reloading.
+INFO 2025-08-12 12:58:03,242 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:58:08,175 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\serializers.py changed, reloading.
+INFO 2025-08-12 12:58:08,996 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-12 12:58:11,792 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+INFO 2025-08-12 12:58:17,723 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\serializers.py changed, reloading.
+INFO 2025-08-12 12:58:18,561 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 12:58:32,339 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 12:58:33,144 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-12 12:58:35,706 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 13:08:11,105 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 13:12:34,739 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+INFO 2025-08-12 13:13:51,631 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\serializers.py changed, reloading.
+INFO 2025-08-12 13:13:52,729 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-12 13:13:53,863 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 13:14:13,915 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 13:14:22,851 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 13:14:27,208 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+ERROR 2025-08-12 13:14:31,339 log Internal Server Error: /api/v1/products/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: products_products.category_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: products_products.category_id
+INFO 2025-08-12 13:15:17,344 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:15:18,090 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:15:19,782 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:15:20,507 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:15:56,051 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\pagination.py changed, reloading.
+INFO 2025-08-12 13:15:56,773 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:15:58,550 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\pagination.py changed, reloading.
+INFO 2025-08-12 13:15:59,359 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:29:56,021 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:29:57,964 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:33:49,700 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:33:50,674 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:33:55,757 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:33:56,641 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:36:16,760 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:36:17,625 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:37:37,849 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\filters.py changed, reloading.
+INFO 2025-08-12 13:37:38,729 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:37:42,726 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\filters.py changed, reloading.
+INFO 2025-08-12 13:37:43,663 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:37:45,489 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\filters.py changed, reloading.
+INFO 2025-08-12 13:37:46,357 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:37:48,065 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\filters.py changed, reloading.
+INFO 2025-08-12 13:37:48,914 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:37:51,682 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\filters.py changed, reloading.
+INFO 2025-08-12 13:37:52,582 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:37:54,245 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:37:55,122 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:40:18,615 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:40:19,533 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:40:21,241 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:40:22,054 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:40:30,459 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:40:31,457 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:44:07,421 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:44:08,316 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:44:40,631 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:44:41,539 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:44:56,475 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:44:57,353 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:45:03,556 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:45:04,686 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:45:26,359 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:45:27,408 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-12 13:46:03,791 log Unauthorized: /api/v1/products_/
+INFO 2025-08-12 13:46:11,466 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:46:12,448 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-12 13:47:17,375 log Not Found: /api/v1/products_/min_price=12
+WARNING 2025-08-12 13:47:28,166 log Not Found: /api/v1/products_/price_min=12
+INFO 2025-08-12 13:53:21,680 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:53:22,606 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:53:52,965 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:53:53,938 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:54:34,139 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:54:35,037 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:54:49,840 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:54:50,684 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:54:56,725 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:54:57,559 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:55:01,508 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\serializers.py changed, reloading.
+INFO 2025-08-12 13:55:02,416 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:55:05,297 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\filters.py changed, reloading.
+INFO 2025-08-12 13:55:06,224 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:55:25,198 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:55:26,178 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:55:30,090 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:55:30,986 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:55:32,698 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-12 13:55:33,642 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 13:56:18,446 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
+INFO 2025-08-12 13:56:19,609 autoreload Watching for file changes with StatReloader
+INFO 2025-08-12 14:02:51,607 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
+INFO 2025-08-12 14:02:52,516 autoreload Watching for file changes with StatReloader
