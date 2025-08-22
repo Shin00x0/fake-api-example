@@ -80,7 +80,7 @@ class ProductApiView(APIView):
 
 
 class ProductViewset(ModelViewSet):
-    permission_classes = [IsAuthenticated]
+    #permission_classes = [IsAuthenticated]
     serializer_class = ProductSerializer
     queryset = Products.objects.all()
     pagination_class = LargeResultsSetPagination

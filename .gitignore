@@ -1,0 +1,14 @@
+
+db.sqlite3
+
+# enviroment
+env
+venv
+
+# file secret
+.env
+
+# folder media
+staticfiles
+media
+

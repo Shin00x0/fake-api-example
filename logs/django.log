@@ -1365,3 +1365,488 @@ INFO 2025-08-12 13:56:18,446 autoreload C:\Users\matyt\Desktop\github_shin00x0\b
 INFO 2025-08-12 13:56:19,609 autoreload Watching for file changes with StatReloader
 INFO 2025-08-12 14:02:51,607 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
 INFO 2025-08-12 14:02:52,516 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 21:32:23,503 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-19 21:32:47,207 log Not Found: /
+WARNING 2025-08-19 21:33:08,442 log Not Found: /api/v1/usrs
+WARNING 2025-08-19 21:33:11,936 log Not Found: /api/v1/users
+WARNING 2025-08-19 21:33:35,946 log Unauthorized: /api/v1/products/
+INFO 2025-08-19 21:34:03,123 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-19 21:34:04,177 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 21:48:55,457 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 21:49:29,114 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-19 21:49:30,013 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 21:50:03,796 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 21:50:12,979 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-19 21:50:13,809 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 21:53:00,968 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 21:54:59,076 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:03:36,111 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:04:10,307 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:04:34,608 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\views.py changed, reloading.
+INFO 2025-08-19 23:04:35,496 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-19 23:06:24,389 log Not Found: /api/v1/users
+INFO 2025-08-19 23:06:49,911 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
+INFO 2025-08-19 23:06:50,833 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:07:30,377 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\serializers.py changed, reloading.
+INFO 2025-08-19 23:07:31,246 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:07:54,210 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\urls.py changed, reloading.
+INFO 2025-08-19 23:08:01,376 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:08:11,672 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\urls.py changed, reloading.
+INFO 2025-08-19 23:08:15,768 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:09:18,100 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\serializers.py changed, reloading.
+INFO 2025-08-19 23:09:18,935 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:09:38,828 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\serializers.py changed, reloading.
+INFO 2025-08-19 23:09:39,701 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:09:46,966 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:10:01,540 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\serializers.py changed, reloading.
+INFO 2025-08-19 23:10:02,415 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-19 23:10:07,260 log Internal Server Error: /api/v1/users
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\views.py", line 27, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 715, in to_representation
+    return [
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 716, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 525, in to_representation
+    for field in fields:
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 386, in _readable_fields
+    for field in self.fields.values():
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 374, in fields
+    for key, value in self.get_fields().items():
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 1105, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 1251, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\rest_framework\serializers.py", line 1369, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `name` is not valid for model `UserModel` in `accounts.serializers.UserModelSearializer`.
+INFO 2025-08-19 23:10:23,853 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\serializers.py changed, reloading.
+INFO 2025-08-19 23:10:24,762 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:10:34,095 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-19 23:11:03,078 log Not Found: /api/v1/users/
+WARNING 2025-08-19 23:11:12,661 log Not Found: /api/v1/users/
+INFO 2025-08-19 23:11:27,879 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\urls.py changed, reloading.
+INFO 2025-08-19 23:11:28,687 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-19 23:11:48,265 log Not Found: /api/v1/users/2/
+WARNING 2025-08-19 23:11:53,468 log Not Found: /api/v1/users/3/
+INFO 2025-08-19 23:16:57,269 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\views.py changed, reloading.
+INFO 2025-08-19 23:16:58,129 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:16:59,763 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\views.py changed, reloading.
+INFO 2025-08-19 23:17:00,614 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:19:59,375 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\views.py changed, reloading.
+INFO 2025-08-19 23:20:00,224 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:31:29,618 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\views.py changed, reloading.
+INFO 2025-08-19 23:31:30,537 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:34:37,525 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:34:38,464 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:34:43,352 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-19 23:34:44,266 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:35:13,012 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:35:13,858 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:35:19,820 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:35:20,667 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:36:02,250 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
+INFO 2025-08-19 23:36:03,165 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:36:54,229 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:36:55,190 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:37:11,771 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:37:12,646 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:38:39,989 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:38:40,910 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:39:04,938 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
+INFO 2025-08-19 23:39:05,842 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:40:01,501 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:40:02,337 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:40:07,314 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:40:08,164 autoreload Watching for file changes with StatReloader
+INFO 2025-08-19 23:42:35,359 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\local.py changed, reloading.
+INFO 2025-08-19 23:42:36,241 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 00:04:53,657 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 00:05:07,820 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 17:11:13,577 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 18:15:06,224 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 18:15:46,147 log Not Found: /
+WARNING 2025-08-20 18:15:46,251 log Not Found: /favicon.ico
+ERROR 2025-08-20 18:15:51,118 log Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django_root'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 98, in view
+    self = cls(**initkwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 89, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'django_root.schema.schema' for Graphene setting 'SCHEMA'. ModuleNotFoundError: No module named 'django_root'.
+INFO 2025-08-20 18:16:10,544 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 18:16:11,516 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 18:16:13,339 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 18:16:14,256 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 18:17:26,662 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 18:17:27,644 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-20 18:17:28,247 log Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'core.schema'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 98, in view
+    self = cls(**initkwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 89, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'core.schema.schema' for Graphene setting 'SCHEMA'. ModuleNotFoundError: No module named 'core.schema'.
+INFO 2025-08-20 18:18:03,046 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 18:18:04,017 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 18:18:08,984 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 18:18:09,956 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-20 18:18:12,845 log Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 81, in import_from_string
+    return getattr(module, class_name)
+AttributeError: module 'products.schema' has no attribute 'schema'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 98, in view
+    self = cls(**initkwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 89, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'products.schema.schema' for Graphene setting 'SCHEMA'. AttributeError: module 'products.schema' has no attribute 'schema'.
+INFO 2025-08-20 18:19:28,819 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 18:19:29,769 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 18:19:35,499 log Bad Request: /graphql
+INFO 2025-08-20 18:20:42,179 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 18:20:43,155 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 18:45:07,571 log Not Found: /
+WARNING 2025-08-20 18:45:11,999 log Bad Request: /graphql
+INFO 2025-08-20 18:45:27,479 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\schema.py changed, reloading.
+INFO 2025-08-20 18:45:28,533 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 18:51:47,749 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
+INFO 2025-08-20 18:51:48,643 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 19:01:41,654 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 19:04:47,798 log Not Found: /
+WARNING 2025-08-20 19:04:48,990 log Not Found: /product
+WARNING 2025-08-20 19:04:50,084 log Not Found: /pr
+WARNING 2025-08-20 19:04:51,121 log Not Found: /
+WARNING 2025-08-20 19:05:06,485 log Forbidden (CSRF cookie not set.): /graphql
+WARNING 2025-08-20 19:05:06,740 log Forbidden (CSRF cookie not set.): /graphql
+WARNING 2025-08-20 19:05:37,728 log Forbidden (CSRF cookie not set.): /graphql
+WARNING 2025-08-20 19:05:38,640 log Forbidden (CSRF cookie not set.): /graphql
+WARNING 2025-08-20 19:06:42,845 log Forbidden (CSRF cookie not set.): /graphql
+WARNING 2025-08-20 20:00:55,929 log Forbidden (CSRF cookie not set.): /graphql
+INFO 2025-08-20 20:02:17,899 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\urls.py changed, reloading.
+INFO 2025-08-20 20:02:21,798 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:02:25,169 log Bad Request: /graphql
+WARNING 2025-08-20 20:03:02,304 log Not Found: /graphql/
+WARNING 2025-08-20 20:03:03,057 log Not Found: /graphql/
+WARNING 2025-08-20 20:03:03,858 log Not Found: /graphql/
+WARNING 2025-08-20 20:03:07,533 log Bad Request: /graphql
+WARNING 2025-08-20 20:03:36,218 log Bad Request: /graphql
+WARNING 2025-08-20 20:06:02,372 log Bad Request: /graphql
+WARNING 2025-08-20 20:06:17,206 log Bad Request: /graphql
+WARNING 2025-08-20 20:06:32,332 log Bad Request: /graphql
+INFO 2025-08-20 20:07:18,910 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:07:19,782 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 20:08:35,586 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 20:09:15,788 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:11:00,337 log Bad Request: /graphql
+INFO 2025-08-20 20:12:54,166 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:12:55,173 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:13:04,587 log Bad Request: /graphql
+INFO 2025-08-20 20:14:22,809 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:14:23,816 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 20:16:20,845 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:16:21,717 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:18:05,447 log Bad Request: /graphql
+INFO 2025-08-20 20:19:37,126 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:19:38,168 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:20:57,037 log Bad Request: /graphql
+WARNING 2025-08-20 20:21:17,873 log Bad Request: /graphql
+INFO 2025-08-20 20:22:17,771 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:22:18,702 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 20:25:42,705 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:27:38,988 log Bad Request: /graphql
+WARNING 2025-08-20 20:27:50,903 log Bad Request: /graphql
+WARNING 2025-08-20 20:28:40,429 log Bad Request: /graphql
+WARNING 2025-08-20 20:29:18,651 log Bad Request: /graphql
+WARNING 2025-08-20 20:29:21,753 log Bad Request: /graphql
+INFO 2025-08-20 20:30:26,233 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:30:27,095 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-20 20:30:50,683 log Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 816, in fields
+    fields = resolve_thunk(self._fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 300, in resolve_thunk
+    return thunk() if callable(thunk) else thunk
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene\types\schema.py", line 312, in create_fields_for_type
+    field_type = create_graphql_type(field.type)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\fields.py", line 105, in type
+    assert _type._meta.connection, "The type {} doesn't have a connection".format(
+AssertionError: The type ProductType doesn't have a connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 98, in view
+    self = cls(**initkwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\schema.py", line 3, in <module>
+    import products.schema
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py", line 98, in <module>
+    schema = graphene.Schema(query=Query, mutation=Mutation)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene\types\schema.py", line 440, in __init__
+    self.graphql_schema = GraphQLSchema(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\schema.py", line 225, in __init__
+    collect_referenced_types(query)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\schema.py", line 435, in collect_referenced_types
+    for field in named_type.fields.values():
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\functools.py", line 993, in __get__
+    val = self.func(instance)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 819, in fields
+    raise cls(f"{self.name} fields cannot be resolved. {error}") from error
+TypeError: Query fields cannot be resolved. The type ProductType doesn't have a connection
+INFO 2025-08-20 20:31:29,287 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-20 20:34:31,949 log Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 816, in fields
+    fields = resolve_thunk(self._fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 300, in resolve_thunk
+    return thunk() if callable(thunk) else thunk
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene\types\schema.py", line 312, in create_fields_for_type
+    field_type = create_graphql_type(field.type)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\fields.py", line 105, in type
+    assert _type._meta.connection, "The type {} doesn't have a connection".format(
+AssertionError: The type ProductType doesn't have a connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 98, in view
+    self = cls(**initkwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\schema.py", line 3, in <module>
+    import products.schema
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py", line 98, in <module>
+    schema = graphene.Schema(query=Query, mutation=Mutation)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene\types\schema.py", line 440, in __init__
+    self.graphql_schema = GraphQLSchema(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\schema.py", line 225, in __init__
+    collect_referenced_types(query)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\schema.py", line 435, in collect_referenced_types
+    for field in named_type.fields.values():
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\functools.py", line 993, in __get__
+    val = self.func(instance)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 819, in fields
+    raise cls(f"{self.name} fields cannot be resolved. {error}") from error
+TypeError: Query fields cannot be resolved. The type ProductType doesn't have a connection
+INFO 2025-08-20 20:35:13,995 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-20 20:35:15,373 log Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 816, in fields
+    fields = resolve_thunk(self._fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 300, in resolve_thunk
+    return thunk() if callable(thunk) else thunk
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene\types\schema.py", line 312, in create_fields_for_type
+    field_type = create_graphql_type(field.type)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\fields.py", line 105, in type
+    assert _type._meta.connection, "The type {} doesn't have a connection".format(
+AssertionError: The type ProductType doesn't have a connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\django\views\generic\base.py", line 98, in view
+    self = cls(**initkwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\schema.py", line 3, in <module>
+    import products.schema
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py", line 98, in <module>
+    schema = graphene.Schema(query=Query, mutation=Mutation)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphene\types\schema.py", line 440, in __init__
+    self.graphql_schema = GraphQLSchema(
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\schema.py", line 225, in __init__
+    collect_referenced_types(query)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\schema.py", line 435, in collect_referenced_types
+    for field in named_type.fields.values():
+  File "C:\Users\matyt\.pyenv\pyenv-win\versions\3.9.13\lib\functools.py", line 993, in __get__
+    val = self.func(instance)
+  File "C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\env\lib\site-packages\graphql\type\definition.py", line 819, in fields
+    raise cls(f"{self.name} fields cannot be resolved. {error}") from error
+TypeError: Query fields cannot be resolved. The type ProductType doesn't have a connection
+INFO 2025-08-20 20:37:17,514 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:37:21,020 log Bad Request: /graphql
+INFO 2025-08-20 20:37:45,488 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:37:46,377 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 20:39:18,693 log Bad Request: /graphql
+WARNING 2025-08-20 20:39:45,500 log Bad Request: /graphql
+WARNING 2025-08-20 20:40:07,818 log Bad Request: /graphql
+WARNING 2025-08-20 20:40:26,608 log Bad Request: /graphql
+WARNING 2025-08-20 20:41:06,085 log Bad Request: /graphql
+WARNING 2025-08-20 20:41:22,788 log Bad Request: /graphql
+WARNING 2025-08-20 20:41:37,146 log Bad Request: /graphql
+WARNING 2025-08-20 20:42:08,987 log Bad Request: /graphql
+INFO 2025-08-20 20:42:52,425 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:42:53,435 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 20:48:29,575 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\products\schema.py changed, reloading.
+INFO 2025-08-20 20:48:30,444 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 20:49:25,589 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 21:03:39,343 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 21:03:40,298 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 21:06:16,124 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 21:06:37,685 log Bad Request: /graphql
+WARNING 2025-08-20 21:08:55,998 log Bad Request: /graphql
+WARNING 2025-08-20 21:10:39,897 log Bad Request: /graphql
+INFO 2025-08-20 21:13:24,216 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-20 21:23:33,203 autoreload Watching for file changes with StatReloader
+INFO 2025-08-20 21:24:35,028 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-20 21:24:51,875 log Bad Request: /graphql
+INFO 2025-08-20 21:26:27,306 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\accounts\schema.py changed, reloading.
+INFO 2025-08-20 21:26:28,367 autoreload Watching for file changes with StatReloader
+INFO 2025-08-22 12:25:18,042 autoreload Watching for file changes with StatReloader
+INFO 2025-08-22 12:30:35,881 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\files\models.py changed, reloading.
+INFO 2025-08-22 12:30:37,547 autoreload Watching for file changes with StatReloader
+INFO 2025-08-22 12:30:42,226 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\files\models.py changed, reloading.
+INFO 2025-08-22 12:30:44,026 autoreload Watching for file changes with StatReloader
+INFO 2025-08-22 12:36:17,871 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\files\models.py changed, reloading.
+INFO 2025-08-22 12:36:19,509 autoreload Watching for file changes with StatReloader
+INFO 2025-08-22 12:57:14,189 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-22 12:57:16,632 autoreload Watching for file changes with StatReloader
+INFO 2025-08-22 12:57:54,666 autoreload C:\Users\matyt\Desktop\github_shin00x0\backend-documentation-example-api\project\core\core\settings\base.py changed, reloading.
+INFO 2025-08-22 12:57:56,578 autoreload Watching for file changes with StatReloader

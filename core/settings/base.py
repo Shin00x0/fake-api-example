@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 from pathlib import Path
 from decouple import config
 import logging
-
+from datetime import timedelta
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
@@ -28,9 +28,7 @@ SECRET_KEY = config("SECRET_KEY")
 DEBUG = config('DEBUG', default=False, cast=bool)
 
 
-
 # Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -46,8 +44,11 @@ INSTALLED_APPS = [
     'djoser',
     'graphene_django',
     'django_filters',
+    'graphql_jwt.refresh_token.apps.RefreshTokenConfig',
     # apps:
     'products',
+    'accounts',
+    'files',
 ]
 
 REST_FRAMEWORK = {
@@ -64,7 +65,42 @@ SIMPLE_JWT = {
 }
 
 GRAPHENE = {
-    "SCHEMA": "django_root.schema.schema"
+    "SCHEMA": "core.schema.schema",
+    "MIDDLEWARE": [
+        "graphql_jwt.middleware.JSONWebTokenMiddleware",
+    ],
+}
+
+AUTHENTICATION_BACKENDS = [
+    "graphql_jwt.backends.JSONWebTokenBackend",
+    "django.contrib.auth.backends.ModelBackend",
+]
+
+GRAPHQL_JWT = {
+    "JWT_VERIFY_EXPIRATION": True,
+    "JWT_EXPIRATION_DELTA": timedelta(minutes=5),
+    "JWT_REFRESH_EXPIRATION_DELTA": timedelta(days=7),
+    "JWT_SECRET_KEY": SECRET_KEY,
+    "JWT_ALGORITHM": "HS256",
+    "JWT_AUDIENCE": None,
+    "JWT_ISSUER": None,
+    "JWT_LEEWAY": timedelta(seconds=0),
+    "JWT_PAYLOAD_HANDLER": "graphql_jwt.utils.jwt_payload",
+    "JWT_PAYLOAD_GET_USERNAME_HANDLER": "graphql_jwt.utils.jwt_get_username_from_payload",
+    "JWT_GET_USER_BY_NATURAL_KEY_HANDLER": "graphql_jwt.utils.jwt_get_user_by_natural_key",
+    "JWT_AUTH_HEADER_NAME": "HTTP_AUTHORIZATION",
+    "JWT_AUTH_HEADER_PREFIX": "JWT",
+    "JWT_AUTH_COOKIE": None,
+    "JWT_COOKIE_PATH": "/",
+    "JWT_COOKIE_DOMAIN": None,
+    "JWT_COOKIE_SECURE": False,
+    "JWT_COOKIE_SAMESITE": None,
+    "JWT_CSRF_ROTATION": False,
+    "JWT_ALLOW_ARGUMENT": False,
+    "JWT_ARGUMENT_NAME": "token",
+    "JWT_REFRESH_TOKEN_EXPIRE_HANDLER": "graphql_jwt.utils.jwt_refresh_token_expire_handler",
+    "JWT_REFRESH_TOKEN_ROTATE_HANDLER": "graphql_jwt.utils.jwt_refresh_token_rotate_handler",
+    "JWT_REFRESH_TOKEN_REVOKE_HANDLER": "graphql_jwt.utils.jwt_refresh_token_revoke_handler",
 }
 
 
@@ -108,6 +144,7 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+AUTH_USER_MODEL = "accounts.UserModel"
 
 
 # Password validation
@@ -143,10 +180,14 @@ USE_L10N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/3.2/howto/static-files/
+# configuracion de extensiones de archivos
+#ALLOWED_EXTENSIONS = ['pdf', 'jpg', 'png', 'docx']
+#MAX_FILE_SIZE_MB = 50
+#MAX_FILES = 5
 
-STATIC_URL = '/static/'
+
+
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field

@@ -7,8 +7,74 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .services_upload import generate_url_uploadfiles
 from django.core.files.storage import default_storage
-# Create your views here.
 
+from rest_framework.viewsets import ModelViewSet
+
+from .models import Document
+from .serializers import DocumentSerializer
+
+
+'''
+Par la implementacion de subida de archivos primero:
+
+primero definir que tipo de subida es para eso 
+- analizar el tamanio del archivo'
+- si el archivo es de < 50 mb lo subiremos por multiparser binario
+- si el archivo es de > 50 mb subiremos la carga desde el cliente  y guardaremos la url
+
+
+'''
+
+from rest_framework.parsers import JSONParser, MultiPartParser,FormParser
+from rest_framework import status
+from .models import Document
+
+
+import uuid
+
+
+
+ALLOWED_EXTENSIONS = ['pdf', 'jpg', 'png', 'docx']
+MAX_FILE_SIZE_MB = 50
+MAX_FILES = 5
+
+class DocumentApiView(APIView):
+    # minimo autenticacion parser
+    parser_classes = [MultiPartParser, FormParser]
+
+    def post(self, request, *args, **kwargs):
+        files = request.FILES.get('file')
+
+        if not files:
+            return Response({'error': 'no se subieron archivos',},
+            status=status.HTTP_400_BAD_REQUEST)
+        
+        for file in files:
+
+            ext = file.name.split('.')[-1].lower()
+            if ext not in ALLOWED_EXTENSIONS:
+                return Response({"error": f"Archivo {file.name} no permitido"}, status=status.HTTP_400_BAD_REQUEST)
+            if file.size > MAX_FILE_SIZE_MB * 1024 * 1024:
+                return Response({"error": f"Archivo {file.name} excede {MAX_FILE_SIZE_MB} MB"}, status=status.HTTP_400_BAD_REQUEST)
+
+            name = f"{uuid.uuid4()}.{ext}" # idenditicicaod rde archivo
+            # implementacion de validaciones
+            document = Document.objects.create(
+                name=name,
+                file=file,
+                type='local',
+            )
+        return Response({"message": "archivos subidos correctamente"}, status=status.HTTP_201_CREATED)
+
+
+
+
+class DocumentViewSet(ModelViewSet):
+    queryset = Document.objects.all()
+    serializer_class = DocumentSerializer
+
+
+'''
 
 @api_view(["GET"])
 def request_upload(request):
@@ -40,3 +106,5 @@ class FileUploadView(APIView):
         file_url = default_storage.url(file_path)
 
         return Response({"url": file_url})
+'''
+
