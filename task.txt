@@ -2,14 +2,14 @@
 
 ✅ Complete CRUD Operations - Create, read, update, and delete resources        (DONE)
 ✅ REST API - Standard RESTful endpoints for all resources                      (DONE)
-✅ GraphQL Support - Modern API query language for flexible data retrieval      (-)
+✅ GraphQL Support - Modern API query language for flexible data retrieval      (DONE)
 ✅ Pagination - Efficiently handle large data sets                              (DONE)
 ✅ JWT Authentication - Secure your application with JSON Web Tokens            (DONE)
 ✅ File Upload Functionality - Test file upload operations                      (CASI LISTO)
 ✅ Advanced Filtering - Filter products by category, title, and price range     (DONE)
 ✅ User Management - Create users with duplicate checking                       (-) utilizar django default
 ✅ Ready-to-use Client Files - Postman and Insomnia collections included        (-) 
-✅ AI-Generated Product Images - Realistic product visuals                      (-) Create a services here
+✅ AI-Generated Product Images - Realistic product visuals                      (CASI LISTO) Create a services here
 
 
 Falta:

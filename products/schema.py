@@ -4,11 +4,11 @@ from graphene_django.filter import DjangoFilterConnectionField
 
 from .models import Products,Category
 from decimal import Decimal
-
+from graphql_relay import from_global_id
 
 # usando relay, para la implementacion de filtros:
 
-class CategoryType(DjangoObjectType):
+class CategoryNode(DjangoObjectType):
     class Meta:
         model = Category
         filter_fields = {
@@ -17,7 +17,7 @@ class CategoryType(DjangoObjectType):
         fields = ("id", "name")
         interfaces = (graphene.relay.Node,)
 
-class ProductType(DjangoObjectType):
+class ProductNode(DjangoObjectType):
     class Meta:
         model = Products
         filter_fields = {
@@ -26,32 +26,32 @@ class ProductType(DjangoObjectType):
             'price': ['exact', 'gte', 'lte'],
             'category__name': ['exact', 'icontains']
         }
-        interfaces = (graphene.relay.Node,)
         fields = ('id','title','description','price','category','image')
+        interfaces = (graphene.relay.Node,)
+
 
 class Query(graphene.ObjectType):
-    all_products = DjangoFilterConnectionField(ProductType)  # 🔹 aquí
-    product = graphene.relay.Node.Field(ProductType) 
+    all_products = DjangoFilterConnectionField(ProductNode)  
+    product = graphene.relay.Node.Field(ProductNode)
 
-    all_categories = DjangoFilterConnectionField(CategoryType)
-    category = graphene.relay.Node.Field(CategoryType)
+    all_categories = DjangoFilterConnectionField(CategoryNode)
+    category = graphene.relay.Node.Field(CategoryNode)
+
 
 # Mutacion, Crud Products
-
 class CreateProduct(graphene.Mutation):
     class Arguments:
         title = graphene.String(required=True)
         price = graphene.Float(required=True)
         description = graphene.String()
         category = graphene.ID(required=True)
-
-    # definimos un campo para pasar el ProductType
-    product = graphene.Field(ProductType)
+    product = graphene.Field(ProductNode)
 
     def mutate(self,info,title,price,category,description=None):
-        category_obj = Category.objects.get(pk=category)
+        _, category_id = from_global_id(category)
+        category_obj = Category.objects.get(pk=category_id)
         product = Products.objects.create(title=title,price=Decimal(str(price)), description=description,category=category_obj)
-        CreateProduct(product=product)
+        return CreateProduct(product=product)
 
 
 class UpdateProduct(graphene.Mutation):
@@ -62,10 +62,12 @@ class UpdateProduct(graphene.Mutation):
         description = graphene.String()
         category = graphene.ID()
 
-    product = graphene.Field(ProductType)
+    product = graphene.Field(ProductNode)
 
     def mutate(self,info,id,title=None,price=None, description=None,category=None):
-        product = Products.objects.get(pk=id)
+        _, db_id = from_global_id(id)
+
+        product = Products.objects.get(pk=db_id )
         if title is not None:
             product.title = title
         if price is not None:
@@ -73,7 +75,8 @@ class UpdateProduct(graphene.Mutation):
         if description is not None:
             product.description = description
         if category is not None:
-            category_obj = Category.objects.get(pk=category)
+            _, category_id = from_global_id(category)
+            category_obj = Category.objects.get(pk=category_id)
             product.category = category_obj
         product.save()
         return UpdateProduct(product=product)
@@ -86,7 +89,8 @@ class DeleteProduct(graphene.Mutation):
     ok = graphene.Boolean()
     def mutate(self,info,id):
         try:
-            product = Products.objects.get(pk=id)
+            _, db_id = from_global_id(id)
+            product = Products.objects.get(pk=db_id)
             product.delete()
             return DeleteProduct(ok=True)
         except Products.DoesNotExist:
